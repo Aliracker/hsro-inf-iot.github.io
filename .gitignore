@@ -1,0 +1,8 @@
+src/c#/FunctionApp/WebApplication/bin/Debug/netcoreapp2.1/WebApplication.runtimeconfig.json
+/.vscode
+/assets/03-vorlesung/src/.idea
+/src/c#/FunctionApp/.vs/FunctionApp
+/src/c#/FunctionApp/WebApplication/bin/Debug/netcoreapp2.1
+/src/c#/FunctionApp/WebApplication/obj/Debug/netcoreapp2.1
+/src/c#/FunctionApp/WebApplication/obj/Release/netcoreapp2.1
+/src/c#/FunctionApp/WebApplication/obj
